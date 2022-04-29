@@ -1,0 +1,1 @@
+Description: A user will be able to generate a webpage that displays their team's basic info so that they have quick access to their emails and GitHub profile.
